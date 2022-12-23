@@ -1,0 +1,1 @@
+2022-12-21 18:41:41 INFO  ResultPage :26 - Verify the actual Search result matches the expected result[[ChromeDriver: chrome on WINDOWS (01ab167955e324cdf88abdf24eaf4787)] -> xpath: //h1[@class = 'search-header__title']]
